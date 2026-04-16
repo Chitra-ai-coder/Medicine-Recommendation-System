@@ -1,0 +1,18 @@
+# 1. Block the massive Machine Learning Model
+model.pkl
+
+# 2. Block Python Cache files (These are useless junk files Python makes)
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 3. Block Virtual Environments (If you are using one)
+venv/
+env/
+.venv/
+
+# 4. Block Mac OS hidden files (Since you are using Safari)
+.DS_Store
+
+# 5. Block API Keys / Environment Variables (Crucial for security later)
+.env
