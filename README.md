@@ -72,7 +72,7 @@ pip install -r requirements.txt
 ```
 
 ### 3. TRAIN THE MACHINE LEARNING MODEL
-Run the data-engineering script to clean the datasets, apply dynamic severity weights, and compile the Random Forest model. This will generate a compressed `model.pkl` file in your root directory.
+Run the data-engineering script to clean the datasets, apply dynamic severity weights, and compile the Random Forest model. This will generate a `model.pkl` file in your root directory.
 ```bash
 python train_model.py
 ```
