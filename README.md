@@ -61,7 +61,7 @@ Because the generated Machine Learning model (`model.pkl`) is highly complex and
 
 ### 1. CLONE THE REPOSITORY
 ```bash
-git clone [https://github.com/yourusername/medicare-ai.git](https://github.com/yourusername/medicare-ai.git)
+git clone [https://github.com/Chitra-ai-coder/medicare-ai.git](https://github.com/Chitra-ai-coder/medicare-ai.git)
 cd medicare-ai
 ```
 
